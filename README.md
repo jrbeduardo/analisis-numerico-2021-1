@@ -2,6 +2,8 @@
 
 Curso de Análisis Numérico en la facultad de ingenieria UNAM 
 
+## Temario
+
 1. Aproximación numérica y errores
 2. Solución numérica de ecuaciones algebraicas y trascendentes
 3. Solución numérica de sistemas de ecuaciones lineales
